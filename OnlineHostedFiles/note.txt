@@ -1,0 +1,2 @@
+-->All files are hosted online on 000webhostapp.com
+-->link to send notification :http://evotingsystem.000webhostapp.com/send_notification.php
