@@ -1,0 +1,12 @@
+Contirbution
+
+Amar Shah
+ camera capture,OTP generate , push notification , model classes, database 
+
+
+Akash Patel
+ location API , OTP generate, push notification, user interface 
+
+Kishan Shah
+
+forget password, push notification , user interface
