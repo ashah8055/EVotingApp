@@ -24,10 +24,9 @@ public class Adapter_VoteList extends BaseAdapter {
 	ArrayList<Vote_POJO> main_item_list;
 	Context ctxt;
 	Activity activity;
-	int[] profile = { R.drawable.aakash, R.drawable.kishan, R.drawable.aakash};
+	int[] profile = { R.drawable.aakash, R.drawable.kishan, R.drawable.ads};
 	int[] party = { R.drawable.csula, R.drawable.csula, R.drawable.csula };
 	SharedPreferences sharedPreferences;
-
 	public Adapter_VoteList(ArrayList<Vote_POJO> main_items, Activity activity) {
 		this.main_item_list = main_items;
 		this.activity = activity;

@@ -19,7 +19,7 @@ public class Adapter_Result extends BaseAdapter {
 	ArrayList<Result_POJO> main_item_list;
 	Context ctxt;
 	Activity activity;
-	int[] profile = { R.drawable.aakash, R.drawable.kishan, R.drawable.amar};
+	int[] profile = { R.drawable.aakash, R.drawable.kishan, R.drawable.ads};
 	int[] party = { R.drawable.csula, R.drawable.csula, R.drawable.csula };
 
 	public Adapter_Result(ArrayList<Result_POJO> main_items, Activity activity) {
